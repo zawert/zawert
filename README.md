@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @zawert
-- 👀 I’m interested in React, Angular and NodeJS
-- 🌱 I’m currently learning Blazor
-- 💞️ I’m looking to collaborate on .NET MVC and .NET Core
-- 📫 How to reach me - rashadthol@protonmail.com
+Hi, I'm Rashad 👋
 
-<!---
-zawert/zawert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior software engineer who builds LLM-driven applications and tries not to let the agents go rogue. I work across agentic systems, RAG, and MCP, plus the usual full-stack toolkit of Python, TypeScript, React, and Azure.
+
+I like software that actually ships, not just demos well in a meeting.
+
+Always happy to connect with people working on applied AI or full-stack engineering.
+
+Give me a shout at mohdrashad98@gmail.com
